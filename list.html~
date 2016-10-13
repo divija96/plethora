@@ -83,6 +83,16 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
                 </ul>
               </li>
             </ul>
+		<div class="col-sm-3 col-md-3">
+        <form class="navbar-form" role="search">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+            <div class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+            </div>
+        </div>
+        </form>
+        </div>
             <ul class="nav navbar-nav navbar-right">
              
               <li><a href="../navbar-fixed-top/"> <img src="user.png" alt="User Icon" style="width:32px;height:32px;"> </a></li>
@@ -101,11 +111,11 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="carousel_discount.jpeg" alt="First slide">
+          <img class="first-slide" src="carousel_discount.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
-              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
+              <p>Some pic of some chic.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
             </div>
           </div>
@@ -114,8 +124,8 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
           <img class="second-slide" src="carousel_discount2.jpeg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>LEVI'S</h1>
+              <p>Comfort and style</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
             </div>
           </div>
