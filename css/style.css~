@@ -1,0 +1,140 @@
+body {
+  background-color: white;
+}
+
+/* Custom container */
+body > .container {
+  padding-top: 20px;
+  padding-bottom: 60px;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+  
+}
+
+.container > hr {
+  margin: 60px 0;
+}
+
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 80px 0;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 100px;
+  line-height: 1;
+}
+.jumbotron .lead {
+  font-size: 24px;
+  line-height: 1.25;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 60px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+
+/* Customize the navbar links to be fill the entire space of the .navbar */
+
+.navbar .navbar-inner {
+  padding: 0;
+  background-color:#0000FF;
+  
+}
+
+.navbar .nav {
+  margin: 0;
+  background-color:#0000FF;
+  
+  display: table;
+  width: 100%;
+}
+.navbar .nav > li {
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+  background-color:#0000FF;
+  display: table-cell;
+  
+  width: 1%;
+  float: none;
+}
+.navbar .nav > li > a {
+  font-weight: bold;
+  text-align: center;
+  color:white;
+  
+}
+.navbar .nav > li:first-child a {
+  border-left: 0;
+  border-radius: 0px 0 0 0px;
+}
+.navbar .nav > li:last-child a {
+  border-right: 0;
+  border-radius: 0 0px 0px 0;
+}
+a:hover,a:active{
+  color: #9933CC;
+  
+  background-color: hotpink;
+}
+
+/** other styles **/
+.content-white {
+  background-color: white;
+}
+
+.padding-top-10 {
+  padding-top:10px;
+}
+
+.navbar-no-padding {
+  padding-left:0px;
+  padding-right:0px;
+}
+
+
+.side-image {
+  padding:5px;
+}
+
+.side-images {
+  max-height: 380px;
+  overflow-y: auto;
+}
+
+.block {
+  border: 1px solid #ccc;
+ 
+  margin: 1em 0em;
+  border-top: none;
+}
+
+.block-content {
+  margin: 1em;
+  min-height: .25em;
+}
+
+.block-header {
+  margin-bottom: 0px;
+  border-right: none;
+  border-left: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+.block-header div {
+  padding-top: 10px;
+}
