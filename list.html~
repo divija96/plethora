@@ -40,7 +40,7 @@
               <li class="active"><a href="#"> <img src="logo.png" alt="Plethora logo" style="width:180px;height:32px;"> </a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
-aria-expanded="false">Electronics<span class="caret"></span></a>
+aria-expanded="false">ELECTRONICS<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="#">Mobiles</a></li>
                   <li><a href="#">Laptops</a></li>
@@ -50,7 +50,7 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
                 </ul>
               </li>
 		<li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Men<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MEN<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="#">Clothing</a></li>
                   <li><a href="#">Footwear</a></li>
@@ -60,7 +60,7 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
                 </ul>
               </li>
 		<li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Women<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">WOMEN<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="#">Clothing</a></li>
                   <li><a href="#">Footwear</a></li>
@@ -72,7 +72,7 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
               </li>
 		</li>
 		<li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home Decor<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HOME DECOR<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="#">Blankets</a></li>
                   <li><a href="#">Curtains</a></li>
@@ -134,8 +134,8 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
           <img class="third-slide" src="carousel_discount3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Guess</h1>
+              <p>Some discount offer.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
@@ -378,7 +378,7 @@ aria-expanded="false">Electronics<span class="caret"></span></a>
       <hr>
 
       <div class="footer">
-        <p>&copy; Company 2014</p>
+        <p>&copy; Made with Love. By Divija, Mukta and Pooja</p>
       </div>
 
     </div> <!-- /container -->
